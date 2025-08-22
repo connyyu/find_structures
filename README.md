@@ -1,6 +1,7 @@
 # Find all PDB structures associated with a UniProt entry.
 
 This repository contains a Python script, written in a Jupyter Notebook, that retrieves all Protein Data Bank (PDB) structures associated with a UniProt entry.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/connyyu/find_structures/find_PDBs.ipynb)
 
 The tool uses APIs from PDBe, UniProt, and RCSB PDB to gather structural data and bibliographic references (including preprints and PubMed IDs) linked to each PDB structure, including newly released structures not yet indexed in UniProt.
 
